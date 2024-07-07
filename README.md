@@ -1,4 +1,4 @@
-# e-library
+# e-library (University final Project)
 
 The App is an e-library mobile software whe re the user can buy or rent
 books for multiple environments platforms like Android iOS with
